@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post to Jekyll!"
+title:  "Build Session Post to Jekyll!"
 date:   2018-11-14 14:58:22 -0800
 categories: jekyll update
 ---
