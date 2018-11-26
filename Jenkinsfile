@@ -3,7 +3,7 @@ pipeline {
     stages {
       stage('Build') {
         steps {
-          awsCodeBuild projectName: 'test-project-jekyll',
+          awsCodeBuild projectName: 'builder-session-1',
                        credentialsId: 'test-user-jekyll',
                        credentialsType: 'jenkins',
                        region: 'us-west-1',
